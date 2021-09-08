@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Business Canvas and building [Typed](https://www.typed.biz/?lang=ko).
-- 🌱 I’m currently learning React Query, TypeScript. 
+- 🌱 I’m currently learning React Query, TypeScript, Docker
