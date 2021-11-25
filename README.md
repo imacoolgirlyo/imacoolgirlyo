@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently working on Business Canvas and building [Typed](https://www.typed.biz/?lang=ko).
+- 🔭 I’m currently working on Business Canvas and building [Typed](https://typed.do/).
 - 🌱 I’m currently learning React Query, TypeScript, Docker
