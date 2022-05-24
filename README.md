@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Business Canvas and building [Typed](https://typed.do/).
-- 🌱 I’m currently learning Objects.
+- 🌱 I’m currently learning Object-oriented programming.
